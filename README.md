@@ -17,11 +17,11 @@ The theme selection is shown inside a **BottomSheet** with a modern design and d
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="D:/APPs/bottom-sheet.jpg" width="250" />
-  <img src="D:/APPs/dark.jpg" width="250" />
-  <img src="D:/APPs/light.jpg" width="250" />
-</p>
+![bottom-sheet](https://github.com/user-attachments/assets/90590b2f-1424-4129-ad22-8ec42bbb98cc)
+![light](https://github.com/user-attachments/assets/2d566cbe-e4ca-49db-b73a-28b14930ca5b)
+![dark](https://github.com/user-attachments/assets/5ecd7812-5460-4b20-801e-ad637130d3dd)
+
+
 
 ---
 
