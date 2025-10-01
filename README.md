@@ -43,11 +43,11 @@ The theme selection is shown inside a **BottomSheet** with a modern design and d
 ### Installation
 1. Clone the repository:
    ```bash
-   https://github.com/A7medMaged/Themes.git
+   git clone https://github.com/A7medMaged/Themes.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd flutter-theme-switcher
+   cd change-theme
    ```
 3. Install dependencies:
    ```bash
