@@ -17,9 +17,11 @@ The theme selection is shown inside a **BottomSheet** with a modern design and d
 
 ## 📸 Screenshots
 
-![bottom-sheet](https://github.com/user-attachments/assets/90590b2f-1424-4129-ad22-8ec42bbb98cc)
-![light](https://github.com/user-attachments/assets/2d566cbe-e4ca-49db-b73a-28b14930ca5b)
-![dark](https://github.com/user-attachments/assets/5ecd7812-5460-4b20-801e-ad637130d3dd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/90590b2f-1424-4129-ad22-8ec42bbb98cc" width="250" />
+  <img src="https://github.com/user-attachments/assets/2d566cbe-e4ca-49db-b73a-28b14930ca5b" width="250" />
+  <img src="https://github.com/user-attachments/assets/5ecd7812-5460-4b20-801e-ad637130d3dd" width="250" />
+</p>
 
 
 
