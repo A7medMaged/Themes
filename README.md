@@ -43,7 +43,7 @@ The theme selection is shown inside a **BottomSheet** with a modern design and d
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter-theme-switcher.git
+   https://github.com/A7medMaged/Themes.git
    ```
 2. Navigate to the project directory:
    ```bash
