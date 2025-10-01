@@ -18,9 +18,9 @@ The theme selection is shown inside a **BottomSheet** with a modern design and d
 ## 📸 Screenshots
 
 <p align="center">
-  <img src=""D:/APPs/bottom-sheet.jpg"" width="250" />
-  <img src=""D:/APPs/dark.jpg"" width="250" />
-  <img src=""D:/APPs/light.jpg"" width="250" />
+  <img src="D:/APPs/bottom-sheet.jpg" width="250" />
+  <img src="D:/APPs/dark.jpg" width="250" />
+  <img src="D:/APPs/light.jpg" width="250" />
 </p>
 
 ---
